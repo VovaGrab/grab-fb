@@ -1,0 +1,281 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script&family=Pacifico&family=Rubik+Distressed&display=swap');
+
+
+body{
+    background-color: #000 ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Pacifico';
+    font-size: 48px;
+    margin-left: 500px;
+    height: 30px;
+    color: rgb(191, 168, 40);
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: aliceblue;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    font-size: 48px;
+    font-style: oblique;
+    text-shadow: 1px 1px 1px #000;
+    text-align: left;
+    color: goldenrod;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+div.gallery {
+    margin: 5px;
+    /* border: 1px solid #ccc; */
+    float: left;
+    width: 180px;
+}
+  
+  /* div.gallery:hover {
+    border: 2px solid #777; 
+    
+  }
+   */
+  div.gallery img {
+    width: 180px;
+    height: 300px;
+    
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  .between{
+  display: flex;
+    justify-content: space-between 10px;
+    margin-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 300px;
+}
+
+#fl1 {
+    width: 250px;
+    margin-left: 200px;
+}
+
+#eye {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-style: oblique;
+    font-size: 14px;
+    color: goldenrod;
+    margin-inline-end: 200px;
+}
+
+#surce{
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+}
+
+#tab{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+video {
+    width: 400px;
+    height: auto;
+    margin-left: 500px;
+  }
+#mc{
+    margin-left: 600px;
+}
+
+#logo{
+    display: flex;
+}
+
+#logo img{
+    height: 30px;
+}
+
+#logo figcaption{
+    font-size: 25px;
+    font-weight: bold;
+    color: #5d5d5d;
+    margin-left: 50px;
+    letter-spacing: 0.25em;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 0;
+    right: 0;
+    overflow: hidden;
+    background-color: #333;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color: #111;
+  }
+
+  
+  #number{
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+#vid{
+  margin-left: 550px;
+}
+
+#bottom{
+  margin-top: 100px;
+}
+ 
+ 
+ 
+  /* MY WORKS*/ /* MY WORKS*/ /* MY WORKS*/ /* MY WORKS*/ /* MY WORKS*/
+  #logotip{
+    display: flex;
+}
+
+#logotip img{
+    height: 30px;
+}
+
+#logotip figcaption{
+    font-size: 25px;
+    font-weight: bold;
+    color: #5d5d5d;
+    margin-left: 50px;
+    letter-spacing: 0.25em;
+}
+
+
+  ul {
+    list-style-type: none;
+    margin-top: 0;
+    right: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color: #111;
+  }
+
+
+  .betw{
+    display: flex;
+      justify-content: space-between 10px;
+      margin-bottom: 10px;
+      margin-left: 180px;
+      margin-right: 50px;
+      margin-top: 10px;
+  }
+
+  div.gall {
+    margin-bottom: -23px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    /* border: 1px solid #ccc; */
+    float: left;
+    width: 180px;
+}
+div.gall1 {
+  margin-bottom: -23px;
+  margin-top: 10px;
+  margin-right: 50px;
+  margin-left: 50px;
+  /* border: 1px solid #ccc; */
+  float: left;
+  width: 180px;
+}
+  
+  /* div.gallery:hover {
+    border: 2px solid #777; 
+    
+  }
+   */
+  div.gall img {
+    width: 270px;
+    height: 400px;
+  }
+  div.gall1 img {
+    width: 270px;
+    height: 400px;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+  /* A     B     O     U     T */
+
+  #fol {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    font-style: oblique;
+    font-size: 24px;
+    color: goldenrod;
+    margin-inline-end: 200px;
+}
+
+#sur{
+  font-size: 24px;
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+}
+
+#number{
+  font-size: 24px;
+  color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#tabl{
+margin-left: 50px;
+  margin-top: 200px;
+}
+  
